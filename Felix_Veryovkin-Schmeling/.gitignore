@@ -1,0 +1,9 @@
+#gitignore file sent to git hub and gives list of file extensions/paths that github will NOT sync/upload
+.env
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.venv/
+.txt
+.md
